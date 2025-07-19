@@ -26,7 +26,7 @@ A 2D arcade-style space shooter built with Unity and C#. Pilot your spaceship, d
 
 ## 📷 Screenshots
 
-![Gameplay Screenshot](images/Screenshot1.png)  
+![Gameplay Screenshot](Screenshot1.png)  
 
 ---
 
